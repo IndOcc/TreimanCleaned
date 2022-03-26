@@ -1,6 +1,10 @@
 # TreimanCleaned
-This is a cleaned version of the "Treiman" dual-coded Industry & Occupation dataset (1970-1980). It was prepared by Hannah Schmuckler in November 2021. 
+This is a cleaned version of the "Treiman" dual-coded Industry & Occupation dataset (1970-1980). It was prepared by Hannah Schmuckler in October 2021. 
 
+Two files are provided: 
+
+* DBL_70_80_cleaning.R: Includes code to clean original data as well as comments explaining what each column is (interpreting original scanned codebook).
+* Treiman_File_clean.csv.tar.gz contains the original data as well as it in a cleaned format, with each variable in its own row. 
 
 Original Source:
 
